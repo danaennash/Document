@@ -21,7 +21,7 @@ namespace DocumentApplication{
               File.WriteAllText(path,content);
            }
            
-           {
+           
               Console.WriteLine(filename+"was successfully saved. The document contains "+content.Length+"characters");
            }
            
