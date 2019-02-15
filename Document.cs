@@ -5,7 +5,7 @@ namespace DocumentApplication{
 
   class Document{
 
-    static void main(strings[]args){
+    static void main(string[]args){
       
       try{
            Console.WriteLine("Document");
