@@ -25,11 +25,11 @@ namespace DocumentApplication{
               Console.WriteLine(filename+"was successfully saved. The document contains "+content.Length+"characters");
            }
            
-           catch(Exception e);
+           catch(Exception e)
            {
            Console.WriteLine(e);
            }
            }
            }
-      }
+           }
    
